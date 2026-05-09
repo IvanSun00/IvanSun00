@@ -1,6 +1,6 @@
 ## Hi, I'm Ivan Sunjaya👋 
 
-- 🏫 I'm a third year student at Petra Christian University majoring in Informatics. 
+- 🏫 I'm a student at Petra Christian University majoring in Informatics. 
 - 👩‍💻 I'm interested in fullstack web development.
 - 🧠 I'm currently learning web framework such as laravel and react
 
